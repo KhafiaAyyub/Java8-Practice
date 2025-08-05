@@ -9,5 +9,3 @@
 - ✅ Date and Time API (java.time)
 - ✅ Built-in Functional Interfaces
 - ✅ Nashorn JavaScript Engine
-
-
