@@ -2,7 +2,7 @@
 
 ##  Java 8 Key Features
 
-- ✅ Lambda Expressions
+- Lambda Expressions
 - ✅ Functional Interfaces
 - ✅ Streams API
 - ✅ Default & Static Methods in Interfaces
