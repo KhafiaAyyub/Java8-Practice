@@ -1,8 +1,6 @@
 
 
 
-
-
 ##  Java 8 Key Features
 
 - Lambda Expressions
